@@ -67,5 +67,85 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6913D00-4C7B-438D-B767-7252ED562613"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x9006;&#x5e8f;&#x5bf9;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D802A329-E5D6-4288-A7C4-2B78E0022432"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x9006;&#x5e8f;&#x5bf9;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6473CAAC-820C-49BC-AE22-3F7F2427325C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x9006;&#x5e8f;&#x5bf9;/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "6473CAAC-820C-49BC-AE22-3F7F2427325C - ae8d0e6e019c2195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "&#x9006;&#x5e8f;&#x5bf9;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbny/Documents/GitHub/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1%E8%AF%BE%E7%A8%8B/Algorithm-Design-and-Analysis/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1/%E9%80%86%E5%BA%8F%E5%AF%B9/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "6473CAAC-820C-49BC-AE22-3F7F2427325C - ae8d0e6e019c21f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "&#x9006;&#x5e8f;&#x5bf9;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbny/Documents/GitHub/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1%E8%AF%BE%E7%A8%8B/Algorithm-Design-and-Analysis/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1/%E9%80%86%E5%BA%8F%E5%AF%B9/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
