@@ -31,6 +31,9 @@
 		149AAD8C2BEBAB3200CC4EB5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 149AAD8B2BEBAB3200CC4EB5 /* main.cpp */; };
 		149AAD972BEBB45D00CC4EB5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 149AAD962BEBB45D00CC4EB5 /* main.cpp */; };
 		149AADA22BEBB9B400CC4EB5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 149AADA12BEBB9B400CC4EB5 /* main.cpp */; };
+		149CF5822BFADB78000313A4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 149CF5812BFADB78000313A4 /* main.cpp */; };
+		149CF58D2BFAE444000313A4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 149CF58C2BFAE444000313A4 /* main.cpp */; };
+		149CF5982BFAED60000313A4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 149CF5972BFAED60000313A4 /* main.cpp */; };
 		14D5B00D2BC6BCDE00B76ECB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14D5B00C2BC6BCDE00B76ECB /* main.cpp */; };
 		14D5B0182BC6C3DE00B76ECB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 14D5B0172BC6C3DE00B76ECB /* main.cpp */; };
 /* End PBXBuildFile section */
@@ -252,6 +255,33 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		149CF57D2BFADB78000313A4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		149CF5882BFAE443000313A4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		149CF5932BFAED60000313A4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		14D5B0082BC6BCDE00B76ECB /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -321,6 +351,12 @@
 		149AAD962BEBB45D00CC4EB5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		149AAD9F2BEBB9B400CC4EB5 /* 模9 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "模9"; sourceTree = BUILT_PRODUCTS_DIR; };
 		149AADA12BEBB9B400CC4EB5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		149CF57F2BFADB78000313A4 /* 最优装载 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "最优装载"; sourceTree = BUILT_PRODUCTS_DIR; };
+		149CF5812BFADB78000313A4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		149CF58A2BFAE444000313A4 /* 找零钱 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "找零钱"; sourceTree = BUILT_PRODUCTS_DIR; };
+		149CF58C2BFAE444000313A4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		149CF5952BFAED60000313A4 /* 活动选择 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "活动选择"; sourceTree = BUILT_PRODUCTS_DIR; };
+		149CF5972BFAED60000313A4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		14D5B00A2BC6BCDE00B76ECB /* 很大的数组的第k小 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "很大的数组的第k小"; sourceTree = BUILT_PRODUCTS_DIR; };
 		14D5B00C2BC6BCDE00B76ECB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		14D5B0152BC6C3DE00B76ECB /* 仿蝴蝶变换 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "仿蝴蝶变换"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -496,6 +532,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		149CF57C2BFADB78000313A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		149CF5872BFAE443000313A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		149CF5922BFAED60000313A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		14D5B0072BC6BCDE00B76ECB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -574,6 +631,9 @@
 				149AAD952BEBB45D00CC4EB5 /* 最长公共子序列 */,
 				149AADA02BEBB9B400CC4EB5 /* 模9 */,
 				147B396C2BF1B27B000CB2F4 /* 方块堆塔 */,
+				149CF5802BFADB78000313A4 /* 最优装载 */,
+				149CF58B2BFAE444000313A4 /* 找零钱 */,
+				149CF5962BFAED60000313A4 /* 活动选择 */,
 				142808B72BC4DF0600B058DA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -607,6 +667,9 @@
 				149AAD942BEBB45D00CC4EB5 /* 最长公共子序列 */,
 				149AAD9F2BEBB9B400CC4EB5 /* 模9 */,
 				147B396B2BF1B27B000CB2F4 /* 方块堆塔 */,
+				149CF57F2BFADB78000313A4 /* 最优装载 */,
+				149CF58A2BFAE444000313A4 /* 找零钱 */,
+				149CF5952BFAED60000313A4 /* 活动选择 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -769,6 +832,30 @@
 				149AADA12BEBB9B400CC4EB5 /* main.cpp */,
 			);
 			path = "模9";
+			sourceTree = "<group>";
+		};
+		149CF5802BFADB78000313A4 /* 最优装载 */ = {
+			isa = PBXGroup;
+			children = (
+				149CF5812BFADB78000313A4 /* main.cpp */,
+			);
+			path = "最优装载";
+			sourceTree = "<group>";
+		};
+		149CF58B2BFAE444000313A4 /* 找零钱 */ = {
+			isa = PBXGroup;
+			children = (
+				149CF58C2BFAE444000313A4 /* main.cpp */,
+			);
+			path = "找零钱";
+			sourceTree = "<group>";
+		};
+		149CF5962BFAED60000313A4 /* 活动选择 */ = {
+			isa = PBXGroup;
+			children = (
+				149CF5972BFAED60000313A4 /* main.cpp */,
+			);
+			path = "活动选择";
 			sourceTree = "<group>";
 		};
 		14D5B00B2BC6BCDE00B76ECB /* 很大的数组的第k小 */ = {
@@ -1198,6 +1285,57 @@
 			productReference = 149AAD9F2BEBB9B400CC4EB5 /* 模9 */;
 			productType = "com.apple.product-type.tool";
 		};
+		149CF57E2BFADB78000313A4 /* 最优装载 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 149CF5852BFADB78000313A4 /* Build configuration list for PBXNativeTarget "最优装载" */;
+			buildPhases = (
+				149CF57B2BFADB78000313A4 /* Sources */,
+				149CF57C2BFADB78000313A4 /* Frameworks */,
+				149CF57D2BFADB78000313A4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "最优装载";
+			productName = "最优装载";
+			productReference = 149CF57F2BFADB78000313A4 /* 最优装载 */;
+			productType = "com.apple.product-type.tool";
+		};
+		149CF5892BFAE443000313A4 /* 找零钱 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 149CF58E2BFAE444000313A4 /* Build configuration list for PBXNativeTarget "找零钱" */;
+			buildPhases = (
+				149CF5862BFAE443000313A4 /* Sources */,
+				149CF5872BFAE443000313A4 /* Frameworks */,
+				149CF5882BFAE443000313A4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "找零钱";
+			productName = "找零钱";
+			productReference = 149CF58A2BFAE444000313A4 /* 找零钱 */;
+			productType = "com.apple.product-type.tool";
+		};
+		149CF5942BFAED60000313A4 /* 活动选择 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 149CF5992BFAED60000313A4 /* Build configuration list for PBXNativeTarget "活动选择" */;
+			buildPhases = (
+				149CF5912BFAED60000313A4 /* Sources */,
+				149CF5922BFAED60000313A4 /* Frameworks */,
+				149CF5932BFAED60000313A4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "活动选择";
+			productName = "活动选择";
+			productReference = 149CF5952BFAED60000313A4 /* 活动选择 */;
+			productType = "com.apple.product-type.tool";
+		};
 		14D5B0092BC6BCDE00B76ECB /* 很大的数组的第k小 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 14D5B0102BC6BCDE00B76ECB /* Build configuration list for PBXNativeTarget "很大的数组的第k小" */;
@@ -1313,6 +1451,15 @@
 					149AAD9E2BEBB9B400CC4EB5 = {
 						CreatedOnToolsVersion = 15.0.1;
 					};
+					149CF57E2BFADB78000313A4 = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+					149CF5892BFAE443000313A4 = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+					149CF5942BFAED60000313A4 = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
 					14D5B0092BC6BCDE00B76ECB = {
 						CreatedOnToolsVersion = 15.0.1;
 					};
@@ -1360,6 +1507,9 @@
 				149AAD932BEBB45D00CC4EB5 /* 最长公共子序列 */,
 				149AAD9E2BEBB9B400CC4EB5 /* 模9 */,
 				147B396A2BF1B27B000CB2F4 /* 方块堆塔 */,
+				149CF57E2BFADB78000313A4 /* 最优装载 */,
+				149CF5892BFAE443000313A4 /* 找零钱 */,
+				149CF5942BFAED60000313A4 /* 活动选择 */,
 			);
 		};
 /* End PBXProject section */
@@ -1554,6 +1704,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				149AADA22BEBB9B400CC4EB5 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		149CF57B2BFADB78000313A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				149CF5822BFADB78000313A4 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		149CF5862BFAE443000313A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				149CF58D2BFAE444000313A4 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		149CF5912BFAED60000313A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				149CF5982BFAED60000313A4 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2075,6 +2249,54 @@
 			};
 			name = Release;
 		};
+		149CF5832BFADB78000313A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		149CF5842BFADB78000313A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		149CF58F2BFAE444000313A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		149CF5902BFAE444000313A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		149CF59A2BFAED60000313A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		149CF59B2BFAED60000313A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		14D5B00E2BC6BCDE00B76ECB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -2331,6 +2553,33 @@
 			buildConfigurations = (
 				149AADA42BEBB9B400CC4EB5 /* Debug */,
 				149AADA52BEBB9B400CC4EB5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		149CF5852BFADB78000313A4 /* Build configuration list for PBXNativeTarget "最优装载" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				149CF5832BFADB78000313A4 /* Debug */,
+				149CF5842BFADB78000313A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		149CF58E2BFAE444000313A4 /* Build configuration list for PBXNativeTarget "找零钱" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				149CF58F2BFAE444000313A4 /* Debug */,
+				149CF5902BFAE444000313A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		149CF5992BFAED60000313A4 /* Build configuration list for PBXNativeTarget "活动选择" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				149CF59A2BFAED60000313A4 /* Debug */,
+				149CF59B2BFAED60000313A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
